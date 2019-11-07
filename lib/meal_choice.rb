@@ -8,6 +8,6 @@ def meal_choice(w, y, protein = "meat")
 
 end
 
-meal_choice("w", "y")
+
 meal_choice("broccoli", "macaroni", "tofu")
-meal_choice("w", "y")
+
